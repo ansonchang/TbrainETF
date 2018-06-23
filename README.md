@@ -1,5 +1,9 @@
 # TbrainETF
 
+## Design Document
+
+ETF_DesginDoc.doc
+
 ## Data
 
 Download from [T-Brain](https://tbrain.trendmicro.com.tw/Competitions/Details/2) and put in root folder. 
@@ -10,3 +14,5 @@ Download from [T-Brain](https://tbrain.trendmicro.com.tw/Competitions/Details/2)
 * TBrian- ETF Prediction-SVR.ipynb: SVM Regression model
 * TBrian- ETF Prediction-Weighting.ipynb: Generate Weighting prediction with 3 weeks prediction data
 ```
+
+ETF_DesginDoc.doc
